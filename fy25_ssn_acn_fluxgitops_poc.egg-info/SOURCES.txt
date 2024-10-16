@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+fy25_ssn_acn_fluxgitops_poc.egg-info/PKG-INFO
+fy25_ssn_acn_fluxgitops_poc.egg-info/SOURCES.txt
+fy25_ssn_acn_fluxgitops_poc.egg-info/dependency_links.txt
+fy25_ssn_acn_fluxgitops_poc.egg-info/top_level.txt
